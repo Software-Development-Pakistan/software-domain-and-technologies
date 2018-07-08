@@ -27,33 +27,41 @@ These domains are listed in No particular order.
 ## Frontend web development
 Somewhat an emerging field in Pakistan but has a lot of potential for the future. You'll be working with rendering, designing, and engineering content on the web browsers. You'll be expected to know HTML, CSS, JavaScript and frontend frameworks like angular, react etc to begin with.
 
+
 <a name="backend" />
 ## Backend web development
 Everything related to building, maintaining, processing and monitoring web applications on the web server. You'll be expected to know some backend languages (NodeJs, PHP, Python, Java etc), databases (Relational/NoSQL), a bit of servers (reverse proxy, shell scripting etc).
+
 
 <a name="fullstack" />
 ## Full Stack Web development
 A combination of both of the above, however as the gap between frontend and backend are widening up, It is better to focus on one of the above, at least in the beginning.
 
+
 <a name="devops" />
 ## DevOps Engineer 
 Combines the software development and operations practices. In practice it means you'll be working on making things easier for software developers. You are expected to know cloud platforms ( Azure/ GoogleCloud/ AWS), build pipelines, docker containers, and a bit about microservices architecture, and web servers etc.
+
 
 <a name="nativemobile" />
 ## Native Mobile Development
 Android (Java/Kotlin), iPhone(swift/Xcode) and windows phone (C#) development. Great if you want to build apps but not as much in demand as web development.
 
+
 <a name="cross-platform-mobile" />
 ## Cross-platform mobile applications development
 The idea is to build the mobile application once which can be used in across devices/platform. Not as performant as native app development but works just fine for most use-cases. You are expected to know React Native/ Ionic / Xamarin etc for this. Easier to get into if you already know frontend web development (at least for React Native/ Ionic).
 
+
 <a name="dataengineer" />
 ## Data Engineer
-You are expected to know how to store, process, and aggregate massive amount of data in a scalable fashion. Some tools you should know are Spark/MapReduce, Kafka, Hive, NoSQL, distributed databases etc
+You are expected to know how to store, process, and aggregate massive amount of data in a scalable fashion. Some tools you should know are Spark/MapReduce, Kafka, Hive, NoSQL, distributed databases etc.
+
 
 <a name="datascientist" />
 ## Data Scientist/ AI/ ML
 Data analysis tools, Machine learning algorithms, Deep learning. Good understanding of maths/stats. Quite an emerging field globally, without a strict definition of what is expected of you. Most startups go for a combination of data engineering + data science role with a good understanding of businesses.
+
 
 <a name="contribution" />
 # Contributions And Maintainers
