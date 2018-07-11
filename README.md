@@ -1,5 +1,14 @@
 # Software Domains and Technologies
-This document is made and maintained for helping software developers and students on [Software Development Pakistan](https://www.facebook.com/groups/softdevpk/) choosing a domain to work in and technologies to learn for it. 
+
+We have always seen students, fresh graduates and software developers
+looking for guidance and information to choose a particular domain based
+on theirinterests and scope / industry trends. So we have decided to create
+a guide with listing of all software related domains with short overview
+with an aim to help and guide others.
+
+We got the idea from group discussion in [Software Development Pakistan](https://www.facebook.com/groups/softdevpk/).
+Also aim to help the relevant students of [Students Counselling Pakistan](https://www.facebook.com/groups/counsellingpakistan/) group.
+
 
 ## Table of Content
 - [Introduction](#introduction)
