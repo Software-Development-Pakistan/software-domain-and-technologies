@@ -21,9 +21,9 @@ Also aim to help the relevant students of [Students Counselling Pakistan](https:
   - [Cross-Platform Mobile Apps Development](#cross-platform-mobile)
   - [Data Engineering](#dataengineer)
   - [Data Scientist/ AI/ ML](#datascientist)
-  - [UI-UX Designer / Web Designer](#web-designer)
-  - [Game Development]()
-  - [Quality Assurance / QA / Testing]()
+  - [UI-UX Designing / Web Designing](#web-designing)
+  - [Game Development](#game-development)
+  - [Quality Assurance / QA](#qa)
 - [Contributions And Changelog](#contribution)
 
 <a name="introduction" /></a>
@@ -45,11 +45,16 @@ PR's are more the welcome.
 These domains are listed in No particular order.
 
 <a name="frontend" /></a>
-## Frontend web development
+## Frontend Web development (UI/UX Development)
 Somewhat an emerging field in Pakistan but has a lot of potential for
 the future. You'll be working with rendering, designing, and engineering
 content on the web browsers. You'll be expected to know HTML, CSS,
 JavaScript and frontend frameworks like angular, react etc to begin with.
+
+UI/UX; abbreviation of User Interface/User Experience, is also considered
+to be another name for the same domain but UX is more about research,
+observation, identification and implementation based on human behaviour.
+
 
 <a name="backend" />
 ## Backend web development
@@ -91,7 +96,7 @@ know frontend web development (at least for React Native/ Ionic).
 
 
 <a name="dataengineer" /></a>
-## Data Engineer
+## Data Engineering
 You are expected to know how to store, process, and aggregate massive
 amount of data in a scalable fashion. Some tools you should know are
 Spark/MapReduce, Kafka, Hive, NoSQL, distributed databases etc.
@@ -105,7 +110,40 @@ a strict definition of what is expected of you. Most startups go for a
 combination of data engineering + data science role with a good
 understanding of businesses.
 
+<a name="web-designing" /></a>
+## UI-UX Designing / Web Designing
+This domain doesn't heavily depend on programming so all you need is good
+web experience especially about web layouts and aesthetics and good
+designing sense/skills. This may include designing prototypes or wireframes
+for different websites based on client requirements. Web Designing is closely
+linked to Graphics Designing but with more focus to websites.
+
+<a name="game-development" /></a>
+## Game Development
+An exciting but very challenging and focused domain of software industry
+is game development. Our local industry is lacking behind in this domain
+than rest of the world especially in comparison to the contribution we're
+doing in web/mobile apps development which also mean that there're lesser
+job opportunities for game development. But on the other hand, there're
+lot of companies working on this domain and are always looking for good
+talent. Like Web, this domain usually consist of a designing and a
+programming end but even if you opt for programming end, it would be better
+to have good designing skills or at least good designing sense.
+Photoshop, Illustrator, Maya, Unity, Unreal Engine, C#, C++, java are
+some of popular tools & languages used for game development.
+
+
+<a name="qa" /></a>
+## Quality Assurance / QA
+This is another domain that is usually considered to be a non-programming
+field but in fact it's great to have programming concepts for a QA Engineer.
+This usually is focused on testing the modules, functionalities and
+complete apps to make sure the developed softwares are bug free, secure
+and support different environments including browsers, OSs, screen sizes,
+etc.
+
 
 <a name="contribution" /></a>
 # Contributions And Maintainers
 - Azeem Akhter: Made the first version of the document. (8th July, 2018).
+- [M Adil Mazhar](http://adilmazhar.xyz/)
