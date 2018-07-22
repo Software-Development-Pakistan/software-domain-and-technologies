@@ -151,6 +151,13 @@ This is about finding out security vulnerabilities in the software systems
  and communicate. This domain of computer science demands heavy research,
  patience, hard work and strong concepts to find out such vulnerabilities.
 
+ Obviously jobs for InfoSec are much lesser than rest of many CS domains
+ but that doesn't really mean InfoSec has lesser scope. All bigger companies
+ are now realising the importance of having good InfoSec engineer in their
+ team and salaries for InfoSec engineers are often much higher than an
+ average developer. Also if you have interest in this domain, then there're
+ lot of opportunities looking forward to your services.
+
 <a name="contribution" /></a>
 # Contributions And Maintainers
 - Azeem Akhter: Made the first version of the document. (8th July, 2018).
