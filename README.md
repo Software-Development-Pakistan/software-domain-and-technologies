@@ -162,3 +162,5 @@ This is about finding out security vulnerabilities in the software systems
 # Contributions And Maintainers
 - Azeem Akhter: Made the first version of the document. (8th July, 2018).
 - [M Adil Mazhar](http://adilmazhar.xyz/)
+- Feel free to contribute if you're interested. Create an issue if you have
+any questions or concerns before/regarding contributing to this repo.
