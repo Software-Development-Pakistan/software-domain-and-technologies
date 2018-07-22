@@ -24,6 +24,7 @@ Also aim to help the relevant students of [Students Counselling Pakistan](https:
   - [UI-UX Designing / Web Designing](#web-designing)
   - [Game Development](#game-development)
   - [Quality Assurance / QA](#qa)
+  - [Information Security](#infosec)
 - [Contributions And Changelog](#contribution)
 
 <a name="introduction" /></a>
@@ -142,6 +143,13 @@ complete apps to make sure the developed softwares are bug free, secure
 and support different environments including browsers, OSs, screen sizes,
 etc.
 
+<a name="infosec" /></a>
+## Information Security (Ethical Hacking / InfoSec / IS)
+This is about finding out security vulnerabilities in the software systems
+ and preventing unauthorised access. You must need to understand the basic
+ model of how internet, websites, apps or all these softwares actually work
+ and communicate. This domain of computer science demands heavy research,
+ patience, hard work and strong concepts to find out such vulnerabilities.
 
 <a name="contribution" /></a>
 # Contributions And Maintainers
